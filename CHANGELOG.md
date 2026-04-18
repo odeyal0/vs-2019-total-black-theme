@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.1] - 2026-04-18
+
+### Changed
+- Updated theme preview screenshot
+
 ## [1.0.0] - 2026-04-16
 
 ### Added

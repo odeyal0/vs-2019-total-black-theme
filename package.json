@@ -2,8 +2,8 @@
   "name": "vs-2019-total-black-theme",
   "displayName": "VS 2019 Total Black Theme",
   "description": "A pure black dark theme inspired by Visual Studio 2019, optimized for reduced eye strain with true black backgrounds.",
-  "version": "1.0.0",
-  "publisher": "odeyalo",
+  "version": "1.0.1",
+  "publisher": "odeyal0",
   "license": "MIT",
   "icon": "icon.png",
   "engines": {
